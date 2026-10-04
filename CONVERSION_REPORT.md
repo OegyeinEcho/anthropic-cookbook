@@ -30,4 +30,4 @@ This conversion is skills-only. The selected workflows can use host-provided fil
 
 ## Validation status
 
-The branch contains a minimal plugin manifest and three immediate-child Skills. Public-directory submission is not claimed: verified publisher identity, listing URLs, brand assets, package ZIP, clean-install smoke tests, and portal review evidence remain separate release gates.
+The branch contains a manifest, three immediate-child Skills, and square light/dark/icon SVG assets. Public-directory submission is not claimed: verified publisher identity, public legal/listing URLs, package ZIP reproducibility, clean-install smoke tests, and portal review evidence remain separate release gates.
