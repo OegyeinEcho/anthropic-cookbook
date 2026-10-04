@@ -2,5 +2,19 @@
   "name": "evidence-workflows",
   "version": "0.1.0",
   "description": "Portable workflows for evidence-grounded analysis, structured extraction, and evaluation review.",
-  "skills": "./skills/"
+  "author": {
+    "name": "OegyeinEcho",
+    "url": "https://github.com/OegyeinEcho"
+  },
+  "repository": "https://github.com/OegyeinEcho/anthropic-cookbook",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Evidence Workflows",
+    "shortDescription": "Traceable analysis workflows",
+    "longDescription": "Portable workflows derived from the MIT-licensed Anthropic Cookbook for evidence-grounded analysis, schema-first extraction, and evaluation or moderation review. The skills preserve provenance, uncertainty, validation, and safe escalation without requiring a vendor SDK or bundled MCP server.",
+    "developerName": "OegyeinEcho",
+    "category": "Developer Tools",
+    "logo": "./assets/logo-light.svg",
+    "composerIcon": "./assets/composer-icon.svg"
+  }
 }
