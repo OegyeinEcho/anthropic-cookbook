@@ -1,0 +1,6 @@
+{
+  "name": "evidence-workflows",
+  "version": "0.1.0",
+  "description": "Portable workflows for evidence-grounded analysis, structured extraction, and evaluation review.",
+  "skills": "./skills/"
+}
